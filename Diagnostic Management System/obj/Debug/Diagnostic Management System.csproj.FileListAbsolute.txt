@@ -1,0 +1,44 @@
+G:\C#\source\Diagnostic Management System\Diagnostic Management System\bin\Debug\Diagnostic Management System.exe.config
+G:\C#\source\Diagnostic Management System\Diagnostic Management System\bin\Debug\Diagnostic Management System.exe
+G:\C#\source\Diagnostic Management System\Diagnostic Management System\bin\Debug\Diagnostic Management System.pdb
+G:\C#\source\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic Management System.csproj.AssemblyReference.cache
+G:\C#\source\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Progressbarfrm.resources
+G:\C#\source\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Properties.Resources.resources
+G:\C#\source\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic Management System.csproj.GenerateResource.cache
+G:\C#\source\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic Management System.csproj.CoreCompileInputs.cache
+G:\C#\source\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic Management System.exe
+G:\C#\source\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic Management System.pdb
+G:\C#\source\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Loginfrm.resources
+G:\C#\source\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Registrationfrm.resources
+G:\C#\source\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Userfrm.resources
+G:\C#\source\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Servicefrm.resources
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\bin\Debug\Diagnostic Management System.exe.config
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\bin\Debug\Diagnostic Management System.exe
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\bin\Debug\Diagnostic Management System.pdb
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic Management System.csproj.AssemblyReference.cache
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Loginfrm.resources
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Progressbarfrm.resources
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Properties.Resources.resources
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Registrationfrm.resources
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Servicefrm.resources
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Userfrm.resources
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic Management System.csproj.GenerateResource.cache
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic Management System.csproj.CoreCompileInputs.cache
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic Management System.exe
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic Management System.pdb
+C:\Users\SM IDRIS\Desktop\Diagnostic Management System 1\Diagnostic Management System\obj\Debug\Diagnostic Management System.csproj.AssemblyReference.cache
+C:\Users\SM IDRIS\Desktop\Diagnostic Management System 1\Diagnostic Management System\obj\Debug\Diagnostic Management System.exe
+C:\Users\SM IDRIS\Desktop\Diagnostic Management System 1\Diagnostic Management System\obj\Debug\Diagnostic Management System.pdb
+C:\Users\SM IDRIS\Desktop\Diagnostic Management System 1\Diagnostic Management System\bin\Debug\Diagnostic Management System.exe.config
+C:\Users\SM IDRIS\Desktop\Diagnostic Management System 1\Diagnostic Management System\bin\Debug\Diagnostic Management System.exe
+C:\Users\SM IDRIS\Desktop\Diagnostic Management System 1\Diagnostic Management System\bin\Debug\Diagnostic Management System.pdb
+C:\Users\SM IDRIS\Desktop\Diagnostic Management System 1\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Loginfrm.resources
+C:\Users\SM IDRIS\Desktop\Diagnostic Management System 1\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Progressbarfrm.resources
+C:\Users\SM IDRIS\Desktop\Diagnostic Management System 1\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Properties.Resources.resources
+C:\Users\SM IDRIS\Desktop\Diagnostic Management System 1\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Registrationfrm.resources
+C:\Users\SM IDRIS\Desktop\Diagnostic Management System 1\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Servicefrm.resources
+C:\Users\SM IDRIS\Desktop\Diagnostic Management System 1\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Userfrm.resources
+C:\Users\SM IDRIS\Desktop\Diagnostic Management System 1\Diagnostic Management System\obj\Debug\Diagnostic Management System.csproj.GenerateResource.cache
+C:\Users\SM IDRIS\Desktop\Diagnostic Management System 1\Diagnostic Management System\obj\Debug\Diagnostic Management System.csproj.CoreCompileInputs.cache
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.AdminDashboardfrm.resources
+G:\C#\source\repos\Diagnostic Management System\Diagnostic Management System\obj\Debug\Diagnostic_Management_System.Paymentfrm.resources
